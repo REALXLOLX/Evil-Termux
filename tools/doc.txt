@@ -1,0 +1,1 @@
+apktool version 2.6.2
