@@ -34,8 +34,7 @@
 * `ls`
 * `cd Evil-Termux`
 * `ls`
-* `chmod 777 evil-termux`
-* `./evil-termux`
+* `bash evil-termux`
 
 ##  Credits :
 ***https://github.com/M4sc3r4n0/Evil-Droid***
